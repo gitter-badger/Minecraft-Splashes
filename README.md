@@ -1,7 +1,7 @@
 # Minecraft Splashes
 This is a simple repo of all the current Splashes from Minecraft! Splashes from PC, PE and Console.
 
-![It Actually Works!](Minecraft-Splashes / Final Doc Pic.PNG )
+![It Actually Works!](https://raw.githubusercontent.com/willtheorangeguy/Minecraff-Splashes/master/Final_Doc_Pic.PNG)
 
 
 
