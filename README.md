@@ -1,7 +1,7 @@
 # Minecraft Splashes
-This is a simple repo of all the current Splashes from Minecraft! Splashes from PC, PE and Console.
+This is a simple repo of all the current Splashes from Minecraft! Splashes from PE and Console.
 
-![It Actually Works!](Minecraft-Splashes/Final_Doc_Pic.jpg)
+![It Actually Works!](https://github.com/willtheorangeguy/Minecraft-Splashes/blob/master/Final%20Doc%20Pic.PNG)
 
 
 
@@ -13,3 +13,7 @@ We recommend you open the .csv file in either Microsoft Office Excel or in Open 
 
 
 This file has been copyed from the Program Files for Minecraft and then converted from a JSON to a CSV.
+
+
+## Future Features
+In the future I would like to add a Word file of the splashes and reach out to all of the PC splashes too.
