@@ -1,4 +1,6 @@
 # Minecraft Splashes
+
+[![Join the chat at https://gitter.im/willtheorangeguy/Minecraft-Splashes](https://badges.gitter.im/willtheorangeguy/Minecraft-Splashes.svg)](https://gitter.im/willtheorangeguy/Minecraft-Splashes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a simple repo of all the current Splashes from Minecraft! Splashes from PE and Console.
 
 ![It Actually Works!](https://github.com/willtheorangeguy/Minecraft-Splashes/blob/master/Final%20Doc%20Pic.PNG)
